@@ -1,0 +1,20 @@
+{
+  "name": "myserver",
+  "version": "1.0.0",
+  "description": "sample server",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "server",
+    "sample"
+  ],
+  "author": "Gastón Frasca",
+  "license": "ISC"
+}
